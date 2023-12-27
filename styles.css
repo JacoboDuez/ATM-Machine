@@ -1,0 +1,42 @@
+button {
+    background-color:#0C80F3;
+    border: #0FF166;
+    border-radius:10px;
+    width:150px;
+}
+
+select{
+    display:block;
+    margin-bottom: 20px;
+}
+h1
+{
+    font-family: 'Arial';
+}
+
+#deposit-selection{
+    background-color:#0C80F3;
+    border:#0ff166;
+    font-weight:bold;
+}
+
+#cashback-selection{
+    background-color: crimson;
+    color:azure;
+    border:#0FF166;
+    font-weight: bold ;
+}
+
+#submit-input:hover{
+    background-color:rgb(31,78,121);
+    color:wheat;
+    font-weight: bold;
+    transition-duration: 50ms;
+}
+
+body{
+    background-color: beige;
+    border-radius: 30px;
+    border-color:#0C80F3;
+    background-blend-mode:lighten;
+}
